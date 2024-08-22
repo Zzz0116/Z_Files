@@ -1,7 +1,14 @@
 *{
+    background-color: black;
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
+body {
+    text-align: center;
     color: blue;
+    font-size: 100px
+}
+
+.info h3 {
+    color: pink;
 }
